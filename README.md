@@ -1,4 +1,4 @@
-# 🚀 Projeto de Computação Científica da Alura
+# 🚀 Projeto de Ciencias de Dados da Alura
 
 Este projeto foi desenvolvido durante as aulas da **Alura**. Aqui, coloquei em prática os conhecimentos adquiridos utilizando a poderosa biblioteca `NumPy` em Python.
 
